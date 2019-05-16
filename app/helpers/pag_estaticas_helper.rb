@@ -1,0 +1,2 @@
+module PagEstaticasHelper
+end
